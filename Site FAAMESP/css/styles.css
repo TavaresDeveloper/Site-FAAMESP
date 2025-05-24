@@ -642,11 +642,11 @@ progress {
   margin-left: auto;
 }
 .bg{
-  background-color: rgba(255, 255, 0, 0.766);
-  border-radius: 100px;
-  width: 50%;
+  background-color: rgba(255, 255, 0, 0.374);
+  border-radius: 30px;
+  width: 35%;
   height: 50%;
-  margin-left: 25%;
+  margin-left: 31%;
 }
 
 @media (min-width: 576px) {
